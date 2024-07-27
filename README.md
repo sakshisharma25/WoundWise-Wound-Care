@@ -22,3 +22,7 @@
 - **Node.js**: For backend server operations.
 - **GitHub**: For version control and collaboration.
 - **Figma**: For UI/UX design.
+
+
+## Presentation Link
+https://drive.google.com/file/d/1ppVtnab_iZO9X8jSpQjs2v-VUeMS_13T/view?usp=sharing
